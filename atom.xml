@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>玄机工作室</title>
+  
+  <subtitle>玄机工作室</subtitle>
+  <link href="https://mysterystudi0.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mysterystudi0.github.io/"/>
+  <updated>2022-05-08T13:36:17.167Z</updated>
+  <id>https://mysterystudi0.github.io/</id>
+  
+  <author>
+    <name>MysteryStudio</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HelloBoss招聘单页应用</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/fe-hello-boss/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/fe-hello-boss/</id>
+    <published>2022-05-08T13:35:00.000Z</published>
+    <updated>2022-05-08T13:36:17.167Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;实战</summary>
+        
+      
+    
+    
+    
+    <category term="FeDemo" scheme="https://mysterystudi0.github.io/categories/FeDemo/"/>
+    
+    
+    <category term="SpringMVC" scheme="https://mysterystudi0.github.io/tags/SpringMVC/"/>
+    
+    <category term="SSM" scheme="https://mysterystudi0.github.io/tags/SSM/"/>
+    
+    <category term="React" scheme="https://mysterystudi0.github.io/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于深度学习的旅游翻译助手APP</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/app-base-on-deep-learning-tourism-translation-assistant/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/app-base-on-deep-learning-tourism-translation-assistant/</id>
+    <published>2022-05-08T13:27:10.000Z</published>
+    <updated>2022-05-08T13:28:44.133Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="AppDemo" scheme="https://mysterystudi0.github.io/categories/AppDemo/"/>
+    
+    
+    <category term="Android" scheme="https://mysterystudi0.github.io/tags/Android/"/>
+    
+    <category term="DeepLearning" scheme="https://mysterystudi0.github.io/tags/DeepLearning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>商城手机APP</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/app-mail/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/app-mail/</id>
+    <published>2022-05-08T13:24:57.000Z</published>
+    <updated>2022-05-08T13:25:51.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;一个完整的电商APP，基于MVP架构，采用模块化的开发里面，实现了商品展示、购物车、支付、店家和顾客之间的IM通信、订单的管理 </summary>
+        
+      
+    
+    
+    
+    <category term="AppDemo" scheme="https://mysterystudi0.github.io/categories/AppDemo/"/>
+    
+    
+    <category term="Android" scheme="https://mysterystudi0.github.io/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>短视频App</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/app-short-video/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/app-short-video/</id>
+    <published>2022-05-08T13:23:07.000Z</published>
+    <updated>2022-05-08T13:24:32.484Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="AppDemo" scheme="https://mysterystudi0.github.io/categories/AppDemo/"/>
+    
+    
+    <category term="Android" scheme="https://mysterystudi0.github.io/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现微服务电商系统</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/go-mxshop/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/go-mxshop/</id>
+    <published>2022-05-08T07:00:32.000Z</published>
+    <updated>2022-05-08T07:16:52.750Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+    <category term="微服务" scheme="https://mysterystudi0.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现租车微信小程序项目</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/go-coolcar/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/go-coolcar/</id>
+    <published>2022-05-08T07:00:27.000Z</published>
+    <updated>2022-05-08T07:17:04.184Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+    <category term="TypeScript" scheme="https://mysterystudi0.github.io/tags/TypeScript/"/>
+    
+    <category term="Docker" scheme="https://mysterystudi0.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现微服务网关</title>
+    <link href="https://mysterystudi0.github.io/2022/05/08/go-micro-service-gateway/"/>
+    <id>https://mysterystudi0.github.io/2022/05/08/go-micro-service-gateway/</id>
+    <published>2022-05-08T06:45:10.000Z</published>
+    <updated>2022-05-08T07:16:55.807Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;一个通用型前端+后端一体的微服务网关项目。  &lt;/p&gt;
+&lt;h1 id=&quot;技术栈&quot;&gt;&lt;a href=&quot;#技术栈&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+    <category term="Vue" scheme="https://mysterystudi0.github.io/tags/Vue/"/>
+    
+    <category term="GRPC" scheme="https://mysterystudi0.github.io/tags/GRPC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现电商网站高并发秒杀系统</title>
+    <link href="https://mysterystudi0.github.io/2022/05/05/go-e-commerce-high-concurrency-seconds-kill-system/"/>
+    <id>https://mysterystudi0.github.io/2022/05/05/go-e-commerce-high-concurrency-seconds-kill-system/</id>
+    <published>2022-05-05T10:26:45.000Z</published>
+    <updated>2022-05-05T14:26:16.812Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;采用分布式权限验证设计  &lt;/li&gt;
+&lt;li&gt;采用Cookie验证的方式代替分布式Seesion </summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现企业级抽奖系统</title>
+    <link href="https://mysterystudi0.github.io/2022/05/05/go-enterprise-lottery/"/>
+    <id>https://mysterystudi0.github.io/2022/05/05/go-enterprise-lottery/</id>
+    <published>2022-05-05T10:23:58.000Z</published>
+    <updated>2022-05-05T14:03:37.085Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;抽奖流程：抽奖 &amp;gt; 验证登录 &amp;gt; 用户抽奖锁定 &amp;gt; 验证用户今日参与次数 &amp;gt; 验证用户今日最大限制数 &amp;gt;</summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现容器微服务化的电商网站</title>
+    <link href="https://mysterystudi0.github.io/2022/05/05/go-container-microservice-e-commerce-website/"/>
+    <id>https://mysterystudi0.github.io/2022/05/05/go-container-microservice-e-commerce-website/</id>
+    <published>2022-05-05T10:19:19.000Z</published>
+    <updated>2022-05-05T14:22:26.904Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+    <category term="Python" scheme="https://mysterystudi0.github.io/tags/Python/"/>
+    
+    <category term="Java" scheme="https://mysterystudi0.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go实现分布式任务调度系统</title>
+    <link href="https://mysterystudi0.github.io/2022/05/05/go-distributed-task-scheduling/"/>
+    <id>https://mysterystudi0.github.io/2022/05/05/go-distributed-task-scheduling/</id>
+    <published>2022-05-05T10:01:01.000Z</published>
+    <updated>2022-05-08T14:30:47.447Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="GoDemo" scheme="https://mysterystudi0.github.io/categories/GoDemo/"/>
+    
+    
+    <category term="Go" scheme="https://mysterystudi0.github.io/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SSM搭建简易人事管理系统</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/java-ssm-simple-person-manage-system/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/java-ssm-simple-person-manage-system/</id>
+    <published>2022-05-04T08:05:00.000Z</published>
+    <updated>2022-05-04T08:06:52.402Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;SSM（Spring + Spring MVC + MyBatis）框架是媲美于 SSH 框架的轻量级 Java EE 框架。easyUI</summary>
+        
+      
+    
+    
+    
+    <category term="JavaDemo" scheme="https://mysterystudi0.github.io/categories/JavaDemo/"/>
+    
+    
+    <category term="SSM" scheme="https://mysterystudi0.github.io/tags/SSM/"/>
+    
+    <category term="Java" scheme="https://mysterystudi0.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python实现推箱子游戏</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/python-game-sokoban/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/python-game-sokoban/</id>
+    <published>2022-05-04T07:57:14.000Z</published>
+    <updated>2022-05-04T08:01:34.717Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;演示&quot;&gt;&lt;a href=&quot;#演示&quot; class=&quot;headerlink&quot; title=&quot;演示&quot;&gt;&lt;/a&gt;演示&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/python-game-sokoban/borgar.png&quot;&gt; </summary>
+        
+      
+    
+    
+    
+    <category term="GameDemo" scheme="https://mysterystudi0.github.io/categories/GameDemo/"/>
+    
+    
+    <category term="Python" scheme="https://mysterystudi0.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pygame 实现贪吃蛇和俄罗斯方块游戏</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/python-game-snake-tetris/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/python-game-snake-tetris/</id>
+    <published>2022-05-04T07:33:02.000Z</published>
+    <updated>2022-05-04T07:56:04.309Z</updated>
+    
+    
+    
+    
+    <category term="GameDemo" scheme="https://mysterystudi0.github.io/categories/GameDemo/"/>
+    
+    
+    <category term="Python" scheme="https://mysterystudi0.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言实现五子棋游戏</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/c-gobang/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/c-gobang/</id>
+    <published>2022-05-04T07:26:25.000Z</published>
+    <updated>2022-05-04T07:28:14.662Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;实现一个五子棋游戏。  &lt;/p&gt;
+&lt;h1 id=&quot;技术栈&quot;&gt;&lt;a href=&quot;#技术栈&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CppDemo" scheme="https://mysterystudi0.github.io/categories/CppDemo/"/>
+    
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++操作Redis实现消息异步订阅和发布</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/cpp-op-redis-asynchronous-subscribe-publish/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/cpp-op-redis-asynchronous-subscribe-publish/</id>
+    <published>2022-05-04T07:17:25.000Z</published>
+    <updated>2022-05-04T07:19:23.380Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;操作 redis 实现异步订阅和发布。  &lt;/p&gt;
+&lt;h2 id=&quot;技术栈&quot;&gt;&lt;a href=&quot;#技术栈&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CppDemo" scheme="https://mysterystudi0.github.io/categories/CppDemo/"/>
+    
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+    <category term="Redis" scheme="https://mysterystudi0.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++和OpenGL实现吃豆人游戏</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/cpp-opengl-pacman/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/cpp-opengl-pacman/</id>
+    <published>2022-05-04T07:10:53.000Z</published>
+    <updated>2022-05-08T07:24:33.193Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;通过&lt;code&gt;C++&lt;/code&gt;和&lt;code&gt;OpenGL&lt;/code&gt;库来实现了一个吃豆人的小游戏。 </summary>
+        
+      
+    
+    
+    
+    <category term="CppDemo" scheme="https://mysterystudi0.github.io/categories/CppDemo/"/>
+    
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+    <category term="OpenGL" scheme="https://mysterystudi0.github.io/tags/OpenGL/"/>
+    
+    <category term="图形学" scheme="https://mysterystudi0.github.io/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++实现运动目标追踪</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/cpp-motion-target-tracking/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/cpp-motion-target-tracking/</id>
+    <published>2022-05-04T07:07:50.000Z</published>
+    <updated>2022-05-04T07:09:47.423Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;利用 OpenCV 来实现对视频中动态物体的追踪。  &lt;/p&gt;
+&lt;h1 id=&quot;技术栈&quot;&gt;&lt;a href=&quot;#技术栈&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CppDemo" scheme="https://mysterystudi0.github.io/categories/CppDemo/"/>
+    
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+    <category term="OpenCV" scheme="https://mysterystudi0.github.io/tags/OpenCV/"/>
+    
+    <category term="图像处理" scheme="https://mysterystudi0.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++实现课程管理系统</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/cpp-course-manage-system/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/cpp-course-manage-system/</id>
+    <published>2022-05-04T07:04:46.000Z</published>
+    <updated>2022-05-04T07:06:18.154Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;实现一个课程管理系统，在这个过程中会介绍C++11的很多特性，同时可以熟悉Linux下的C++语言编译方法及简单的Makefile编写。 </summary>
+        
+      
+    
+    
+    
+    <category term="CppDemo" scheme="https://mysterystudi0.github.io/categories/CppDemo/"/>
+    
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++实现即时通信软件</title>
+    <link href="https://mysterystudi0.github.io/2022/05/04/cpp-imchatroom/"/>
+    <id>https://mysterystudi0.github.io/2022/05/04/cpp-imchatroom/</id>
+    <published>2022-05-04T07:01:42.000Z</published>
+    <updated>2022-05-04T07:05:26.536Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;p&gt;一个具备服务端和客户端的即时通信聊天室，涉及网络编程，C++面向对象程序设计等知识。  &lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="CppDemo" scheme="https://mysterystudi0.github.io/categories/CppDemo/"/>
+    
+    
+    <category term="C/C++" scheme="https://mysterystudi0.github.io/tags/C-C/"/>
+    
+    <category term="网络" scheme="https://mysterystudi0.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+</feed>

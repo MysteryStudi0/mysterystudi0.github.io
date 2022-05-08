@@ -280,7 +280,7 @@
       <link href="/2022/05/05/go-distributed-task-scheduling/"/>
       <url>/2022/05/05/go-distributed-task-scheduling/</url>
       
-        <content type="html"><![CDATA[<h1 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h1><p>结合<code>Etcd</code>与<code>MongoDB</code>实现一个基于<code>Master-Worker</code>分布式架构的任务调度系统。  </p><p>项目架构图：  </p><p><img src="/jiagou.png">  </p><h1 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h1><ul><li>Go  </li><li>MongoDB分布式存储  </li><li>Etcd协调服务  </li><li>Shell任务执行  </li><li>Cron表达式调用</li></ul><h1 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h1><p><img src="/demo1.png">  </p>]]></content>
+        <content type="html"><![CDATA[<h1 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h1><p>结合<code>Etcd</code>与<code>MongoDB</code>实现一个基于<code>Master-Worker</code>分布式架构的任务调度系统。  </p><p>项目架构图：  </p><p><img src="/./go-distributed-task-scheduling/jiagou.png">  </p><h1 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h1><ul><li>Go  </li><li>MongoDB分布式存储  </li><li>Etcd协调服务  </li><li>Shell任务执行  </li><li>Cron表达式调用</li></ul><h1 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h1><p><img src="/./go-distributed-task-scheduling/demo1.png">  </p>]]></content>
       
       
       <categories>

@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Go语言实现在线租房网站</title>
+      <link href="/2022/05/15/go-ihome/"/>
+      <url>/2022/05/15/go-ihome/</url>
+      
+        <content type="html"><![CDATA[<h1 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h1><p>使用<code>Beego</code>框架实现前后端不分离的租房网站。  </p><h2 id="v1-0版本"><a href="#v1-0版本" class="headerlink" title="v1.0版本"></a>v1.0版本</h2><p>该项目<code>v1.0</code>已经实现房源搜索，订单管理，用户注册登录管理等常用功能。  </p><h1 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h1><ul><li>Go  </li><li>Beego框架  </li><li>MySQL数据库  </li><li>Redis数据库  </li><li>前端基础</li></ul><h1 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h1><p>房源搜索：<br><img src="/../images/posts/go-ihome/search2.png">  </p><p>发布房源：<br><img src="/../images/posts/go-ihome/house.png">  </p><p><img src="/../images/posts/go-ihome/house2.png">  </p><p>个人信息：<br><img src="/../images/posts/go-ihome/user.png">  </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> GoDemo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Go </tag>
+            
+            <tag> Beego </tag>
+            
+            <tag> Frontend </tag>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HelloBoss招聘单页应用</title>
       <link href="/2022/05/08/fe-hello-boss/"/>
       <url>/2022/05/08/fe-hello-boss/</url>
